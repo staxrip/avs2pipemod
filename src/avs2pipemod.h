@@ -26,7 +26,7 @@
 #define NOMINMAX
 #define NOGDI
 #include <windows.h>
-#include <avisynth.h>
+#include "avisynth.h"
 
 #define A2PM_VERSION "1.1.1"
 

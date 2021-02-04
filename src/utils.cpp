@@ -26,7 +26,7 @@
 #define NOMINMAX
 #define NOGDI
 #include <windows.h>
-#include <avisynth.h>
+#include "avisynth.h"
 #include "utils.h"
 
 void validate(bool cond, const char* msg, ...)
